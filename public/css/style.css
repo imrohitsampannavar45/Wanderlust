@@ -51,7 +51,7 @@ color: #222222;
 position: sticky;
 }
 
-.card{
+.listing-card{
   border: none !important;
   margin-bottom: 2rem;
 
@@ -101,4 +101,10 @@ object-fit: cover !important;
 .show-card {
 padding-left: 0;
 padding-right: 0;
+}
+
+
+#map { 
+  height: 400px;
+  width: 80vh;
 }
